@@ -1,5 +1,5 @@
 {
-    "name": "qpautrat/woohoolabs-yin-bundle",
+    "name": "qassadevelopers/woohoolabs-yin-bundle",
     "description": "Implements woohoolabs/yin framework into Symfony",
     "keywords": ["json-api", "symfony"],
     "type": "symfony-bundle",
